@@ -1,0 +1,30 @@
+[
+  {
+    "id": 420,
+    "name": "Lemn de foc",
+    "slug": "lemn-de-foc",
+    "description": "",
+    "image": "wp-content/uploads/2026/05/slider-zermatt-pellets-2.jpg"
+  },
+  {
+    "id": 421,
+    "name": "Brichete din lemn",
+    "slug": "brichete-din-lemn",
+    "description": "",
+    "image": "wp-content/uploads/2026/05/slider-zermatt-pellets-2.jpg"
+  },
+  {
+    "id": 415,
+    "name": "Peleti din lemn",
+    "slug": "peleti-din-lemn",
+    "description": "",
+    "image": "wp-content/uploads/2026/05/slider-zermatt-pellets-2.jpg"
+  },
+  {
+    "id": 419,
+    "name": "Sobe pe peleti",
+    "slug": "sobe-pe-peleti",
+    "description": "",
+    "image": "wp-content/uploads/2026/05/slider-zermatt-pellets-2.jpg"
+  }
+]
